@@ -1,0 +1,22 @@
+.counter{
+    height: 250px;
+    width: 250px;
+    background-color: peru;
+    margin-top: 250px;
+    margin-left: 680px;
+    border-radius: 8px;
+}
+.count{
+    font-style: italic;
+    font-weight: bolder;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+.increment{
+    margin-left: 65px;
+    background-color: tan;
+}
+.decrement{
+    margin-left: 65px;
+    background-color: tan;
+}
