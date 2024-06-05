@@ -1,0 +1,23 @@
+.calculator{
+    height: 250px;
+    width: 250px;
+    background-color: lightgreen;
+    border-radius: 10px;
+    margin-top: 200px;
+    margin-left: 650px;
+    padding-left: 100px;
+    padding-top: 50px;
+}
+.head{
+    font-style: italic;
+    font-weight: bolder;
+}
+.input{
+    border-radius: 8px;
+}
+.button1 ,.button2 ,.button3 ,.button4 ,.button5 ,.button6 ,.button7 ,.button8 ,.button9 ,.button0,
+.buttonplus ,.buttonminus ,.buttonmultiply ,.buttondivide ,.buttonmodulus ,.buttonequal ,.buttonclear ,.buttonspace{
+    margin: 3px;
+    border-radius: 5px;
+    margin-left: 8px;
+}
